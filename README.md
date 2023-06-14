@@ -1,3 +1,6 @@
+#Demo project image
+![image](https://github.com/Emr1s/First-REST-API-project/assets/33460622/7a9d58bf-7501-47b4-81e1-85b262c2bc19)
+First REST API project. Working with API The Guardian API.
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
